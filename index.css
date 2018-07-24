@@ -1,12 +1,33 @@
-   table {background-color: rgb(107, 107, 107);}
-      th {color: rgb(140, 216, 0);}
-      .titulo {color: rgb(190, 0, 0);}
-  .america {
-    color: rgb(0, 190, 85);
-    background-color: rgb(170, 39, 6);
-  }
-  .corred{
-    color: rgb(28, 0, 190);
-    background-color: rgb(170, 167, 6);
+.vermelho {
+width: 100vw;
+height: 100px;
+background-color: red;
+}
 
-  }
+.amarelo {
+width: 100vw;
+height: 100px; 
+background: yellow;
+}
+
+.verde {
+width: 100vw;
+height: 100px; 
+background: green;
+} 
+
+.cor-linha{
+  color: green;
+  font-style: italic;
+}
+.centralizado {
+  text-align: center;
+}
+
+.roxo {
+width: 100vw;
+height: 100px; 
+background: purple; }
+.alinhados{
+  display: flex;
+}
